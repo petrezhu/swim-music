@@ -13,6 +13,8 @@
 macOS 包未签名/未公证，首次打开请右键 → 打开，或到「系统设置 → 隐私与安全性」允许。
 Linux 需要 glibc 2.34+（Debian 12 / Ubuntu 22.04 及以上）。
 
+> Gitee 单附件上限 100M：Windows 包有 Gitee 镜像；macOS（103M）与 Linux（152M）包请走主源或 GitHub。
+
 ## 在线更新
 
 应用内「帮助 → 检查更新」会按顺序读取：
